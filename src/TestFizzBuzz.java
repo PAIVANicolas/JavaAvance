@@ -18,6 +18,10 @@ public class TestFizzBuzz {
     }
 
     @Test
+    public void testFizzBuzz5(){
+        assertEquals("Buzz",FizzBuzz.fizzBuzz(5));
+    }
+    @Test
     public void testFizzBuzz7(){
         assertEquals("7",FizzBuzz.fizzBuzz(7));
     }
