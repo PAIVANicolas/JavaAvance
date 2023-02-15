@@ -7,23 +7,28 @@ import static org.junit.Assert.assertNull;
 public class TestAmi {
 
     @Test
-    public void testAmi0(){
+    public void testAmiArthur(){
         assertEquals("Bonjour, Arthur.", Ami.bonjour("Arthur"));
     }
 
     @Test
-    public void testAmi1(){
+    public void testAmiNicolas(){
         assertEquals("Bonjour, Nicolas.", Ami.bonjour("Nicolas"));
     }
 
     @Test
-    public void testAmi2(){
+    public void testAmiNull(){
         assertEquals("Bonjour, Ami.", Ami.bonjour(null));
     }
 
     @Test
-    public void testAmi3(){
+    public void testAmiARTHUR(){
         assertEquals("BONJOUR, ARTHUR.", Ami.bonjour("ARTHUR"));
+    }
+
+    @Test
+    public void testAmiArThur(){
+        assertEquals("Bonjour, ArThur.", Ami.bonjour("ArThur"));
     }
 
 }
