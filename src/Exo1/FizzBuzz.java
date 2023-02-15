@@ -1,11 +1,15 @@
+package Exo1;
 
 public class FizzBuzz {
-
     public static String fizzBuzz(int i) {
         String res = "";
-        if(i % 3 == 0 && i % 5 == 0)
+        res = Integer.toString(i);
+        if(i == 0){
+           res = "0";
+        }
+        else if(i % 3 == 0 && i % 5 == 0)
         {
-            res = "FizzBuzz";
+            res = "Exo1.FizzBuzz";
         }
         else if(i % 3 == 0)
         {
@@ -14,10 +18,6 @@ public class FizzBuzz {
         else if(i % 5 == 0)
         {
             res = "Buzz";
-        }
-        else
-        {
-            res = Integer.toString(i);
         }
         return res;
     }

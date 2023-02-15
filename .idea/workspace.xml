@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43525330-d05d-499e-be6f-047461c876f7" name="Changes" comment="init">
+    <list default="true" id="43525330-d05d-499e-be6f-047461c876f7" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exo2/Ami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exo2/TestAmi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestFizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestFizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo1/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo1/TestFizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +46,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -50,6 +54,45 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestAmi">
+    <configuration name="TestAmi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAvance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Exo2" />
+      <option name="MAIN_CLASS_NAME" value="Exo2.TestAmi" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAmi.testAmi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAvance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Exo2" />
+      <option name="MAIN_CLASS_NAME" value="Exo2.TestAmi" />
+      <option name="METHOD_NAME" value="testAmi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestAmi" />
+        <item itemvalue="JUnit.TestAmi.testAmi" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,7 +102,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676380689502</updated>
-      <workItem from="1676380691208" duration="2927000" />
+      <workItem from="1676380691208" duration="3004000" />
+      <workItem from="1676448187886" duration="2294000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1676381829549</created>
@@ -68,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676381829549</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1676383803065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676383803065</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +138,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaAvance$TestAmi.ic" NAME="TestAmi Coverage Results" MODIFIED="1676450491784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Exo2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaAvance$TestFizzBuzz.ic" NAME="TestFizzBuzz Coverage Results" MODIFIED="1676449661181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Exo1.*</FILTER>
+    </SUITE>
   </component>
 </project>
