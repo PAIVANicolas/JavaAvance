@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43525330-d05d-499e-be6f-047461c876f7" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Collections/Exo2/FiboIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Exo2/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Exo2/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Exo2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/Exo2/FiboIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/Exo2/FiboIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/Exo2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/Exo2/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676380689502</updated>
-      <workItem from="1676881328248" duration="3058000" />
+      <workItem from="1676881328248" duration="5256000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1676881150171</created>
@@ -64,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676881150171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1676884543945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676884543945</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

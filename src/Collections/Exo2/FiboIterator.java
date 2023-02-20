@@ -16,7 +16,7 @@ public class FiboIterator implements Iterator<Integer> {
     }
 
     public boolean hasNext() {
-        return rang <= max;
+        return rang < max;
     }
 
     public Integer next() {
