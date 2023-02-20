@@ -1,4 +1,4 @@
-package Listes.Exo1;
+package Généralités.Exo3;
 import java.util.*;
 
 public class Essai {
