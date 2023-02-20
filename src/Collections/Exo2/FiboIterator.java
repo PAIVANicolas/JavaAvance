@@ -20,11 +20,11 @@ public class FiboIterator implements Iterator<Integer> {
     }
 
     public Integer next() {
-        int result = current + next;
-        current = next;
-        next = result;
-        rang++;
-        return current;
+            int result = current + next;
+            current = next;
+            next = result;
+            rang++;
+            return current;
     }
 }
 
