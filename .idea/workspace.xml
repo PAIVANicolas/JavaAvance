@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43525330-d05d-499e-be6f-047461c876f7" name="Changes" comment="Exo 2 test testAmiArThur validé">
+    <list default="true" id="43525330-d05d-499e-be6f-047461c876f7" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exo1/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmation_defensive/Exo1/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exo1/TestFizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmation_defensive/Exo1/TestFizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exo2/Ami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmation_defensive/Exo2/Ami.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exo2/TestAmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmation_defensive/Exo2/TestAmi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmation_defensive/Exo1/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmation_defensive/Exo1/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +49,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.TestAmi">
@@ -137,7 +137,7 @@
       <updated>1676380689502</updated>
       <workItem from="1676380691208" duration="3004000" />
       <workItem from="1676448187886" duration="7191000" />
-      <workItem from="1676879103395" duration="311000" />
+      <workItem from="1676879103395" duration="1592000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1676381829549</created>
@@ -181,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676456306477</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1676880164944</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676880164944</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +199,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/TDD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -205,7 +239,8 @@
     <MESSAGE value="Exo 2 test 2 validé" />
     <MESSAGE value="Exo 2 refactored" />
     <MESSAGE value="Exo 2 test testAmiArThur validé" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exo 2 test testAmiArThur validé" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaAvance$TestAmi.ic" NAME="TestAmi Coverage Results" MODIFIED="1676456106556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
