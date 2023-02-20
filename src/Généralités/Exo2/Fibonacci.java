@@ -1,4 +1,4 @@
-package Collections.Exo2;
+package Généralités.Exo2;
 
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-package Collections.Exo2;
+package Généralités.Exo2;
 
 public class main {
     public static void main(String[] args) {
