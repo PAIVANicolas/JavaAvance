@@ -1,4 +1,4 @@
-package Exo1;
+package Programmation_defensive.Exo1;
 
 public class FizzBuzz {
     public static String fizzBuzz(int i) {
@@ -9,7 +9,7 @@ public class FizzBuzz {
         }
         else if(i % 3 == 0 && i % 5 == 0)
         {
-            res = "Exo1.FizzBuzz";
+            res = "Programmation_defensive.Collections.Collections.Exo1.FizzBuzz";
         }
         else if(i % 3 == 0)
         {

@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43525330-d05d-499e-be6f-047461c876f7" name="Changes" comment="Exo 2 refactored">
-      <change beforePath="$PROJECT_DIR$/src/Exo2/TestAmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo2/TestAmi.java" afterDir="false" />
+    <list default="true" id="43525330-d05d-499e-be6f-047461c876f7" name="Changes" comment="Exo 2 test testAmiArThur validé">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exo1/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmation_defensive/Exo1/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exo1/TestFizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmation_defensive/Exo1/TestFizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exo2/Ami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmation_defensive/Exo2/Ami.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exo2/TestAmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmation_defensive/Exo2/TestAmi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +37,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -55,12 +59,12 @@
       <module name="JavaAvance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exo2.*" />
+          <option name="PATTERN" value="Programmation_defensive.Exo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Exo2" />
-      <option name="MAIN_CLASS_NAME" value="Exo2.TestAmi" />
+      <option name="MAIN_CLASS_NAME" value="Programmation_defensive.Exo2.TestAmi" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,12 +74,12 @@
       <module name="JavaAvance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exo2.*" />
+          <option name="PATTERN" value="Programmation_defensive.Exo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Exo2" />
-      <option name="MAIN_CLASS_NAME" value="Exo2.TestAmi" />
+      <option name="MAIN_CLASS_NAME" value="Programmation_defensive.Exo2.TestAmi" />
       <option name="METHOD_NAME" value="testAmi" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -86,12 +90,12 @@
       <module name="JavaAvance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exo2.*" />
+          <option name="PATTERN" value="Programmation_defensive.Exo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Exo2" />
-      <option name="MAIN_CLASS_NAME" value="Exo2.TestAmi" />
+      <option name="MAIN_CLASS_NAME" value="Programmation_defensive.Exo2.TestAmi" />
       <option name="METHOD_NAME" value="testAmi1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -102,12 +106,12 @@
       <module name="JavaAvance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exo2.*" />
+          <option name="PATTERN" value="Programmation_defensive.Exo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Exo2" />
-      <option name="MAIN_CLASS_NAME" value="Exo2.TestAmi" />
+      <option name="MAIN_CLASS_NAME" value="Programmation_defensive.Exo2.TestAmi" />
       <option name="METHOD_NAME" value="testAmi2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -132,7 +136,8 @@
       <option name="presentableId" value="Default" />
       <updated>1676380689502</updated>
       <workItem from="1676380691208" duration="3004000" />
-      <workItem from="1676448187886" duration="5990000" />
+      <workItem from="1676448187886" duration="7191000" />
+      <workItem from="1676879103395" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1676381829549</created>
@@ -169,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676455956260</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exo 2 test testAmiArThur validé">
+      <created>1676456306477</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676456306477</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +204,8 @@
     <MESSAGE value="Exo 2 test 1 validé" />
     <MESSAGE value="Exo 2 test 2 validé" />
     <MESSAGE value="Exo 2 refactored" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exo 2 refactored" />
+    <MESSAGE value="Exo 2 test testAmiArThur validé" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exo 2 test testAmiArThur validé" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaAvance$TestAmi.ic" NAME="TestAmi Coverage Results" MODIFIED="1676456106556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

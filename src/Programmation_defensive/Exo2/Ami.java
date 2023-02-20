@@ -1,4 +1,4 @@
-package Exo2;
+package Programmation_defensive.Exo2;
 
 public class Ami {
 

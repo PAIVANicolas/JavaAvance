@@ -1,4 +1,4 @@
-package Exo1;
+package Programmation_defensive.Exo1;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
